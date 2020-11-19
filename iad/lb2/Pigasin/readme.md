@@ -14,7 +14,7 @@ Accuracy: 0.9141
 
 ## Slides
 * [Dataset](slides/Dataset.pdf)
-* [MobileNet](slides/MobileNet.pdf)
+* [MobileNet](slides/MobileNet.pdf) ([Text](slides/MobileNetText.pdf))
 * [Result](slides/Result.pdf)
 
 ## Architecture
